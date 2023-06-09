@@ -11,3 +11,4 @@ This script sets the mode of a given file
 This script sets the mode of a file to that of another
 This script adds execute permissions to all subdirectory of current directory
 mkdir -m 751 file_name is a script that creates a directory with 751 permissions in the working directory
+chgrp new_owner file_name
