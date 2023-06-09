@@ -9,3 +9,4 @@ chmod ugo+x hello
 chmod 007 grants all other permissions with exception of owner and group which have no permission
 This script sets the mode of a given file
 This script sets the mode of a file to that of another
+This script adds execute permissions to all subdirectory of current directory
