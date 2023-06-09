@@ -1,1 +1,2 @@
-This is the script to change user
+#!/bin/bash
+su betty
