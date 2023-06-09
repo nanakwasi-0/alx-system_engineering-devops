@@ -6,3 +6,4 @@ touch creates a emoty file
 chmod u+x file_name
 chmod u+x,g+x,o+r file_name
 chmod ugo+x hello
+chmod 007 grants all other permissions with exception of owner and group which have no permission
