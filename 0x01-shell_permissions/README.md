@@ -5,3 +5,4 @@ chown new_user file_name is used to change the owner of a file
 touch creates a emoty file
 chmod u+x file_name
 chmod u+x,g+x,o+r file_name
+chmod ugo+x hello
